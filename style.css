@@ -12,13 +12,28 @@ body {
     
 }
 
-span {
-    color: #22D4FD;
-    border: 1px solid #22D4FD;
-    padding: 10px;
-    border-radius: 10px;    
-    
+
+.header{
+
 }
+
+.header_menu{
+
+}
+
+.header_menu_link{
+    font-family: ;
+}
+
+
+strong {
+    font-family: 'Krona One', cursive; 
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    color: #22D4FD;
+}
+
 
 .presentacion {
     display: flex;
