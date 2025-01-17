@@ -1,4 +1,4 @@
-# Portafolio !Hola, bienvenidos a mi proyecto de portafolio!
+# !Hola, bienvenidos a mi proyecto de portafolio!
 ## Herramientas utilizadas:
 
 *HTML
